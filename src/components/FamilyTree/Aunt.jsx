@@ -16,7 +16,7 @@ const Aunt = ({asset}) => {
                 <Cousin name='Tom' asset={asset}></Cousin>
                 <Cousin name='Jery'></Cousin>
             </section>
-            <button onClick={handleAddMoney}>Add 5000 tk</button>
+            <button onClick={handleAddMoney}>Add 50000 tk</button>
         </div>
     );
 };
